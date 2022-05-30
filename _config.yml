@@ -21,18 +21,18 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy                          # the main title
+title: Bryce Ong                          # the main title
 
-tagline: A text-focused Jekyll theme   # it will display as the sub-title
+tagline: 2nd Year CS Major at UCSD   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
+  A personal portfolio website made by Bryce Ong, 2nd year CS Major at UCSD.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://bgsong03.github.io'
 
 github:
-  username: github_username             # change to your github username
+  username: bgsong03             # change to your github username
 
 twitter:
   username: twitter_username            # change to your twitter username
@@ -41,14 +41,14 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Bryce Ong
-  email: example@doamin.com             # change to your email address
+  email: bgsong03@gmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/username      # change to your twitter homepage
-    - https://github.com/username       # change to your github homepage
+    - https://github.com/bgsong03       # change to your github homepage
+    - https://www.linkedin.com/in/bryce-ong-7a6513206/
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
 
 google_site_verification:               # fill in to your verification string
 
